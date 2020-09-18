@@ -9,11 +9,11 @@
   background-color: black;
 }
 
-#topNav a:hover{
+#topNav li a:hover{
   color: yellow;
 }
 
-a{
+#topNav li a{
   text-decoration: none;
   font-family: monospace;
   font-size: 45px;
